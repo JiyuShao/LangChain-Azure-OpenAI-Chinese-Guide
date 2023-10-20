@@ -39,7 +39,7 @@
 
 Azure OpenAI 的模型返回时不时会被 [Content filtering](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/content-filter) 挡掉，想关掉的话需要去额外申请 Modified Content Filters and Abuse monitoring
 
-### 4. 体现本项目
+### 4. 体验本项目
 
 - 创建 `src/config/.env` 环境变量
 
